@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0 ;
+}
+section{
+    background-image: url(/image/Bg_Paper.jpg);
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    font-size:88px;
+    font-weight: 800;
+}
